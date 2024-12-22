@@ -1,6 +1,6 @@
 package GitPractieTest;
 
-import OOPs.inter;
+
 
 public class MyTest {
 	
